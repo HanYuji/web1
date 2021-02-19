@@ -1,0 +1,35 @@
+Settings > GitHub Pages
+main , /root  save
+기다리면 새로고침 되면서 웹 주소가 뜸.
+
+해당 주소로 안 되면 index.html을 추가해주면 됨.
+
+
+how to install apache http server os
+how to easy install apache on window
+bitnami wamp stack
+
+아파치 설치
+그 중 bitnami 설치
+
+C:\Bitnami\wampstack-8.0.2-0
+
+Create MySQL 'root' Accout
+pw : 931100
+
+Web Server Port
+Apache Web Server Port 81 <- 80 포트를 이미 사용중이라서 그런가봄
+
+cloud 부분은 체크 해제
+
+Launch bitnami ~ 이건 체크
+
+
+C:\Bitnami\wampstack-8.0.2-0 > Manager Windows 프로그램 실행
+> Manage Servers > Apache Web Servers 를 켜고 끌 수 있음
+
+localhost
+http://127.0.0.1/index.html
+
+C:\Bitnami\wampstack-8.0.2-0\apache2\htdocs에 저장되어 있는 index.html 파일임.
+
